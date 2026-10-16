@@ -1,0 +1,8 @@
+{
+  "name": "Remix McMillen Legal",
+  "description": "Dedicated workers' compensation firm serving injured workers throughout California, founded by Michael Partovi, Esq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
